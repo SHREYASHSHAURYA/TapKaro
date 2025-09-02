@@ -48,7 +48,10 @@ Unlike traditional payment apps, TapKaro focuses on **simplicity and flexibility
 
 
 **Screenshot**
+
+
 <img width="739" height="668" alt="Screenshot 2025-09-02 232837" src="https://github.com/user-attachments/assets/ab60252d-99da-41a1-adbc-e420787d27bd" />
+
 
 
 
